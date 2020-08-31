@@ -123,6 +123,6 @@ function handleSelectedItem(event) {
     //atualizar o campo escondido (hidden) com os itens selecionados
     collectedItems.value = selectedItems
     
-    
+    console.log("TESTE GITTTTT");
 
 }
